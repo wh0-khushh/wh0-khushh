@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Khushi Kumari Banner" width="100%">
+</p>
 # Hi there, I'm Khushi Kumari 👋
 
 ### Frontend Developer Intern | B.Tech CSE Student | Aspiring Full Stack Developer
