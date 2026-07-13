@@ -1,95 +1,213 @@
 <p align="center">
-  <img src="banner.png" alt="Khushi Kumari Banner" width="100%">
+  <img src="banner.png" alt="Khushi Kumari Banner" width="100%" />
 </p>
-# Hi there, I'm Khushi Kumari 👋
 
-### Frontend Developer Intern | B.Tech CSE Student | Aspiring Full Stack Developer
+<h1 align="center">Hi, I'm Khushi Kumari 👋</h1>
 
-I'm passionate about building modern, responsive, and user-focused web applications. I enjoy transforming ideas into elegant digital experiences using Angular and modern web technologies while continuously expanding my backend skills with Java and Spring Boot.
+<h3 align="center">
+Frontend Developer Intern • Angular • TypeScript • Product Engineering • UI/UX Enthusiast
+</h3>
 
----
-
-## 🚀 About Me
-
-- 🎓 B.Tech Computer Science Engineering Student
-- 💼 Frontend Developer Intern
-- 🌱 Currently learning **Java**, **Spring Boot**, and backend development
-- 💻 Building responsive web applications with **Angular**
-- 🎯 Goal: Become a Full Stack Software Engineer
-- 📍 Jamshedpur, India
+<p align="center">
+Building thoughtful digital products with modern frontend technologies, clean architecture, and user-centered design.
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 👩‍💻 About Me
 
-### Frontend
+I'm a **Frontend Developer Intern** and **B.Tech Computer Science Engineering student** passionate about building modern, responsive, and intuitive web applications.
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+I enjoy transforming ideas into polished digital products by combining **clean engineering**, **thoughtful UI/UX**, and **scalable frontend architecture**.
 
-### Frameworks & Tools
+During my internship at **WorkSeer**, I've contributed to enterprise Angular applications by building reusable components, developing reactive forms, integrating REST APIs, implementing authentication workflows, and improving responsive user interfaces.
 
-![Angular Material](https://img.shields.io/badge/Angular_Material-757575?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-### Currently Learning
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+Outside of work, I love experimenting with premium interfaces, design systems, animations, and modern frontend architecture while continuously learning how great products are built.
 
 ---
 
-## 🌟 Featured Project
+## 🚀 Current Focus
 
-### 🏨 Aurelia Reserve
+- ⚡ Advanced Angular Architecture
+- ⚡ Product Engineering
+- ⚡ UI/UX Design
+- ⚡ Design Systems
+- ⚡ RxJS & State Management
+- ⚡ Authentication & Route Guards
+- ⚡ REST API Integration
+- ⚡ Building Production-Inspired Applications
 
-A premium luxury resort landing page built with Angular featuring elegant UI, responsive design, interactive gallery, smooth animations, and modern user experience.
+---
 
-🌐 **Live Demo**
+# 🛠 Tech Stack
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind,bootstrap,git,github,vscode,figma" />
+</p>
+
+---
+
+## Angular
+
+- Angular
+- Angular Material
+- Angular Router
+- RxJS
+- Reactive Forms
+- Dependency Injection
+- HTTP Client
+- Route Guards
+- Lazy Loading
+- JWT Authentication
+- REST API Integration
+- Component-Based Architecture
+- Reusable Components
+- State Management
+
+---
+
+## UI / UX
+
+- Responsive UI
+- Responsive Layouts
+- UI Design
+- UX Design
+- Design Systems
+- Microinteractions
+- Accessibility (WCAG)
+- Web Performance
+- GSAP Animations
+
+---
+
+## Backend (Currently Learning)
+
+- Java
+- Spring Boot
+- SQL
+- RESTful APIs
+
+---
+
+# 🌟 Featured Projects
+
+## 🏨 Aurelia Reserve
+
+Luxury Resort Landing Page built with **Angular 14** featuring
+
+- Responsive Design
+- Component-Based Architecture
+- Hero Slideshow
+- Interactive Gallery
+- Elegant UI
+- Mobile Navigation
+- Modern User Experience
+
+🔗 **Live Demo**
 
 https://aurelia-reserve.netlify.app
 
-💻 **GitHub Repository**
+💻 **Repository**
 
 https://github.com/wh0-khushh/aurelia-reserve
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Personal Portfolio
 
-![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wh0-khushh&show_icons=true&theme=tokyonight&hide_border=true)
+Modern Software Engineering Portfolio built using Angular.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wh0-khushh&layout=compact&theme=tokyonight&hide_border=true)
+Highlights
+
+- Dark / Light Theme
+- Responsive Design
+- Experience Timeline
+- Project Showcase
+- Resume Download
+- GitHub Integration
+- Modern UI
 
 ---
 
-## 📫 Connect With Me
+## 🚀 Current Project
 
-💼 LinkedIn
+**GlassFlow**
+
+An enterprise-inspired Angular SaaS application focused on authentication, reusable architecture, premium Glassmorphism UI, state management, REST APIs, and scalable frontend engineering.
+
+> Currently under development.
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=wh0-khushh&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wh0-khushh&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=wh0-khushh&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Angular Patterns
+- Software Architecture
+- Product Engineering
+- Spring Boot Fundamentals
+- System Design Fundamentals
+- Building Better User Experiences
+
+---
+
+# 🎯 Career Goal
+
+To grow as a **Frontend Engineer** who builds scalable, accessible, and beautifully crafted digital products that solve real-world problems.
+
+---
+
+# 🤝 Let's Connect
+
+💼 **LinkedIn**
 
 https://www.linkedin.com/in/khushi-kumari-b95652409
 
-💻 GitHub
+🌐 **Portfolio**
+
+<YOUR_PORTFOLIO_LINK>
+
+💻 **GitHub**
 
 https://github.com/wh0-khushh
 
-📧 Email
+📧 **Email**
 
 khushhiii143offc@gmail.com
 
 ---
 
-## 💡 Quote
+# 💭 Favorite Quote
 
-> "Every project is an opportunity to learn something new and become a better developer."
+> *"Great software isn't just functional—it should feel effortless to use."*
 
 ---
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+
+Thanks for stopping by! 😊
+
+I'm always learning, building, and improving one project at a time.
+
+⭐ If you like my work, feel free to explore my repositories.
+
+</p>
