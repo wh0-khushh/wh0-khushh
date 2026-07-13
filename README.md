@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Khushi Kumari Banner"/>
+  <img src="banner.png" alt="Khushi Kumari Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Khushi Kumari 👋</h1>
 
 <h3 align="center">
-Frontend Developer Intern • Angular • TypeScript • Product Engineering • UI/UX Enthusiast
+Frontend Engineer • Angular • TypeScript • Product Engineering • UI/UX Enthusiast
 </h3>
 
 <p align="center">
@@ -16,13 +16,13 @@ Building thoughtful digital products through modern frontend engineering, scalab
 
 # 👩‍💻 About Me
 
-I'm a **Frontend Developer Intern** and **B.Tech Computer Science Engineering student** passionate about creating modern, responsive, and intuitive web applications.
+I'm a **Frontend Developer Intern** and **B.Tech Computer Science Engineering student** passionate about building modern, responsive, and user-friendly web applications.
 
-I enjoy combining clean engineering with thoughtful UI/UX to build products that are functional, scalable, and enjoyable to use.
+I enjoy combining clean engineering with thoughtful UI/UX to create digital products that are scalable, maintainable, and enjoyable to use.
 
-At **WorkSeer**, I've worked on enterprise Angular applications involving reusable components, Reactive Forms, Angular Router, authentication workflows, REST API integration, responsive layouts, and maintainable frontend architecture.
+At **WorkSeer**, I've contributed to enterprise Angular applications by building reusable components, Reactive Forms, authentication workflows, REST API integrations, route-based navigation, and responsive interfaces while collaborating on real-world business applications.
 
-Outside of work, I enjoy designing premium interfaces, experimenting with design systems, animations, and building production-inspired Angular applications that strengthen both my engineering and product thinking.
+Outside of work, I love exploring premium UI systems, design systems, animations, and frontend architecture through personal projects that challenge both my engineering and design skills.
 
 ---
 
@@ -33,9 +33,9 @@ Outside of work, I enjoy designing premium interfaces, experimenting with design
 - UI / UX Design
 - Design Systems
 - RxJS & State Management
-- Authentication & Route Guards
+- Authentication & Authorization
 - REST API Integration
-- Building Production-Ready Applications
+- Building Production-Inspired Applications
 
 ---
 
@@ -69,6 +69,7 @@ Outside of work, I enjoy designing premium interfaces, experimenting with design
 - UI Design
 - UX Design
 - Responsive UI
+- Responsive Layouts
 - Design Systems
 - Accessibility (WCAG)
 - Microinteractions
@@ -88,17 +89,16 @@ Outside of work, I enjoy designing premium interfaces, experimenting with design
 
 ## 🏨 Aurelia Reserve
 
-Luxury Resort Landing Page built using Angular 14.
+A luxury resort landing page built with **Angular 14**, showcasing responsive layouts, reusable components, modern UI, hero slideshow, interactive gallery, and smooth user experience.
 
 ### Highlights
 
 - Responsive Design
+- Component-Based Architecture
 - Hero Slideshow
 - Interactive Gallery
-- Angular Components
 - Mobile Navigation
-- Elegant UI
-- Production Deployment
+- Modern UI
 
 🔗 Live Demo
 
@@ -110,33 +110,52 @@ https://github.com/wh0-khushh/aurelia-reserve
 
 ---
 
-## 💼 Personal Software Engineering Portfolio
+## 💼 Personal Portfolio
 
-Built with Angular.
+A modern software engineering portfolio built using Angular.
 
-Features include
+### Features
 
-- Dark / Light Mode
 - Responsive Design
+- Dark / Light Theme
 - Experience Timeline
+- Featured Projects
 - Resume Download
-- Project Showcase
 - GitHub Integration
 
 ---
 
-## 🚀 GlassFlow (Currently Building)
+## 🚀 GlassFlow (In Progress)
 
-Enterprise-inspired Angular SaaS application featuring
+An enterprise-inspired Angular SaaS application showcasing modern frontend architecture.
+
+Planned Features
 
 - Authentication
 - Route Guards
 - JWT
+- Lazy Loading
+- HTTP Interceptors
 - RxJS
 - REST APIs
+- Dashboard
+- Analytics
 - Glassmorphism UI
-- Reusable Components
 - Modular Architecture
+
+> 🚧 Currently under development.
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wh0-khushh&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wh0-khushh&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=wh0-khushh&theme=github-dark&hide_border=true"/>
+</p>
 
 ---
 
@@ -147,13 +166,13 @@ Enterprise-inspired Angular SaaS application featuring
 - Product Engineering
 - Spring Boot
 - System Design
-- Better UI/UX
+- Better User Experiences
 
 ---
 
 # 🎯 Career Goal
 
-To become a **Frontend Product Engineer** building scalable, accessible, and beautifully designed web applications that solve real-world problems.
+To grow as a **Frontend Product Engineer**, building scalable, accessible, and beautifully crafted web applications that solve real-world problems through thoughtful engineering and design.
 
 ---
 
