@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Khushi Kumari Banner" width="100%" />
+  <img src="banner.png" width="100%" alt="Khushi Kumari Banner"/>
 </p>
 
 <h1 align="center">Hi, I'm Khushi Kumari 👋</h1>
@@ -9,47 +9,45 @@ Frontend Developer Intern • Angular • TypeScript • Product Engineering •
 </h3>
 
 <p align="center">
-Building thoughtful digital products with modern frontend technologies, clean architecture, and user-centered design.
+Building thoughtful digital products through modern frontend engineering, scalable architecture, and user-centered design.
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-I'm a **Frontend Developer Intern** and **B.Tech Computer Science Engineering student** passionate about building modern, responsive, and intuitive web applications.
+I'm a **Frontend Developer Intern** and **B.Tech Computer Science Engineering student** passionate about creating modern, responsive, and intuitive web applications.
 
-I enjoy transforming ideas into polished digital products by combining **clean engineering**, **thoughtful UI/UX**, and **scalable frontend architecture**.
+I enjoy combining clean engineering with thoughtful UI/UX to build products that are functional, scalable, and enjoyable to use.
 
-During my internship at **WorkSeer**, I've contributed to enterprise Angular applications by building reusable components, developing reactive forms, integrating REST APIs, implementing authentication workflows, and improving responsive user interfaces.
+At **WorkSeer**, I've worked on enterprise Angular applications involving reusable components, Reactive Forms, Angular Router, authentication workflows, REST API integration, responsive layouts, and maintainable frontend architecture.
 
-Outside of work, I love experimenting with premium interfaces, design systems, animations, and modern frontend architecture while continuously learning how great products are built.
+Outside of work, I enjoy designing premium interfaces, experimenting with design systems, animations, and building production-inspired Angular applications that strengthen both my engineering and product thinking.
 
 ---
 
-## 🚀 Current Focus
+# 🚀 Current Focus
 
-- ⚡ Advanced Angular Architecture
-- ⚡ Product Engineering
-- ⚡ UI/UX Design
-- ⚡ Design Systems
-- ⚡ RxJS & State Management
-- ⚡ Authentication & Route Guards
-- ⚡ REST API Integration
-- ⚡ Building Production-Inspired Applications
+- Advanced Angular Architecture
+- Product Engineering
+- UI / UX Design
+- Design Systems
+- RxJS & State Management
+- Authentication & Route Guards
+- REST API Integration
+- Building Production-Ready Applications
 
 ---
 
 # 🛠 Tech Stack
 
-## Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind,bootstrap,git,github,vscode,figma" />
 </p>
 
----
-
-## Angular
+### Angular
 
 - Angular
 - Angular Material
@@ -66,28 +64,23 @@ Outside of work, I love experimenting with premium interfaces, design systems, a
 - Reusable Components
 - State Management
 
----
+### UI / UX
 
-## UI / UX
-
-- Responsive UI
-- Responsive Layouts
 - UI Design
 - UX Design
+- Responsive UI
 - Design Systems
-- Microinteractions
 - Accessibility (WCAG)
+- Microinteractions
 - Web Performance
 - GSAP Animations
 
----
-
-## Backend (Currently Learning)
+### Backend (Learning)
 
 - Java
 - Spring Boot
 - SQL
-- RESTful APIs
+- REST APIs
 
 ---
 
@@ -95,67 +88,55 @@ Outside of work, I love experimenting with premium interfaces, design systems, a
 
 ## 🏨 Aurelia Reserve
 
-Luxury Resort Landing Page built with **Angular 14** featuring
+Luxury Resort Landing Page built using Angular 14.
+
+### Highlights
 
 - Responsive Design
-- Component-Based Architecture
 - Hero Slideshow
 - Interactive Gallery
-- Elegant UI
+- Angular Components
 - Mobile Navigation
-- Modern User Experience
+- Elegant UI
+- Production Deployment
 
-🔗 **Live Demo**
+🔗 Live Demo
 
 https://aurelia-reserve.netlify.app
 
-💻 **Repository**
+💻 Repository
 
 https://github.com/wh0-khushh/aurelia-reserve
 
 ---
 
-## 💼 Personal Portfolio
+## 💼 Personal Software Engineering Portfolio
 
-Modern Software Engineering Portfolio built using Angular.
+Built with Angular.
 
-Highlights
+Features include
 
-- Dark / Light Theme
+- Dark / Light Mode
 - Responsive Design
 - Experience Timeline
-- Project Showcase
 - Resume Download
+- Project Showcase
 - GitHub Integration
-- Modern UI
 
 ---
 
-## 🚀 Current Project
+## 🚀 GlassFlow (Currently Building)
 
-**GlassFlow**
+Enterprise-inspired Angular SaaS application featuring
 
-An enterprise-inspired Angular SaaS application focused on authentication, reusable architecture, premium Glassmorphism UI, state management, REST APIs, and scalable frontend engineering.
-
-> Currently under development.
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wh0-khushh&show_icons=true&theme=github_dark&hide_border=true"/>
-  
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wh0-khushh&layout=compact&theme=github_dark&hide_border=true"/>
-  
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=wh0-khushh&theme=tokyonight&hide_border=true"/>
-
-</p>
+- Authentication
+- Route Guards
+- JWT
+- RxJS
+- REST APIs
+- Glassmorphism UI
+- Reusable Components
+- Modular Architecture
 
 ---
 
@@ -164,50 +145,42 @@ An enterprise-inspired Angular SaaS application focused on authentication, reusa
 - Advanced Angular Patterns
 - Software Architecture
 - Product Engineering
-- Spring Boot Fundamentals
-- System Design Fundamentals
-- Building Better User Experiences
+- Spring Boot
+- System Design
+- Better UI/UX
 
 ---
 
 # 🎯 Career Goal
 
-To grow as a **Frontend Engineer** who builds scalable, accessible, and beautifully crafted digital products that solve real-world problems.
+To become a **Frontend Product Engineer** building scalable, accessible, and beautifully designed web applications that solve real-world problems.
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
-💼 **LinkedIn**
+💼 LinkedIn
 
 https://www.linkedin.com/in/khushi-kumari-b95652409
 
-🌐 **Portfolio**
+🌐 Portfolio
 
-(https://khushi-kumariportfolio.netlify.app/)
+https://khushi-kumariportfolio.netlify.app/
 
-💻 **GitHub**
+💻 GitHub
 
 https://github.com/wh0-khushh
 
-📧 **Email**
+📧 Email
 
 khushhiii143offc@gmail.com
 
 ---
 
-# 💭 Favorite Quote
-
-> *"Great software isn't just functional—it should feel effortless to use."*
-
----
-
 <p align="center">
 
-Thanks for stopping by! 😊
+⭐ Thanks for visiting my profile!
 
-I'm always learning, building, and improving one project at a time.
-
-⭐ If you like my work, feel free to explore my repositories.
+Always learning. Always building.
 
 </p>
