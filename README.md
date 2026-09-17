@@ -4,38 +4,50 @@
 
 <h1 align="center">Hi, I'm Khushi Kumari 👋</h1>
 
-<h3 align="center">
-Frontend Engineer • Angular • TypeScript • Product Engineering • UI/UX Enthusiast
-</h3>
+<p align="center">
+  <strong>Frontend Developer Intern • Angular • TypeScript • UI/UX</strong>
+</p>
 
 <p align="center">
-Building thoughtful digital products through modern frontend engineering, scalable architecture, and user-centered design.
+  Building responsive, reusable, and thoughtful web experiences with modern frontend technologies.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/khushi-kumari-b95652409">LinkedIn</a>
+  •
+  <a href="https://khushi-kumariportfolio.netlify.app/">Portfolio</a>
+  •
+  <a href="https://github.com/wh0-khushh">GitHub</a>
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-I'm a **Frontend Developer Intern** and **B.Tech Computer Science Engineering student** passionate about building modern, responsive, and user-friendly web applications.
+I'm a **Frontend Developer Intern** and **B.Tech Computer Science Engineering student** focused on building modern, responsive, and user-friendly web applications.
 
-I enjoy combining clean engineering with thoughtful UI/UX to create digital products that are scalable, maintainable, and enjoyable to use.
+My primary development focus is **Angular, TypeScript, JavaScript, HTML5, CSS3, Angular Material, RxJS, and responsive UI development**.
 
-At **WorkSeer**, I've contributed to enterprise Angular applications by building reusable components, Reactive Forms, authentication workflows, REST API integrations, route-based navigation, and responsive interfaces while collaborating on real-world business applications.
+At **WorkSeer**, I contribute to enterprise web applications, working with Angular-based interfaces, reusable components, Reactive Forms, client-side validation, REST API integration, and responsive UI development.
 
-Outside of work, I love exploring premium UI systems, design systems, animations, and frontend architecture through personal projects that challenge both my engineering and design skills.
+Alongside frontend engineering, I'm expanding my knowledge of **Java, Spring Boot, REST APIs, software architecture, and backend development** as I work toward becoming a stronger full-stack software engineer.
+
+I also enjoy exploring **UI systems, design, responsive layouts, and frontend architecture** through personal projects.
 
 ---
 
-# 🚀 Current Focus
+# 🚀 What I'm Focused On
 
-- Advanced Angular Architecture
-- Product Engineering
-- UI / UX Design
-- Design Systems
-- RxJS & State Management
-- Authentication & Authorization
+- Angular & TypeScript
+- Reusable Component Architecture
+- Responsive Frontend Development
+- Angular Material & RxJS
+- Reactive Forms & Validation
 - REST API Integration
-- Building Production-Inspired Applications
+- Frontend Engineering Practices
+- UI / UX Design
+- Java & Spring Boot
+- Software Architecture
 
 ---
 
@@ -44,150 +56,97 @@ Outside of work, I love exploring premium UI systems, design systems, animations
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind,bootstrap,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind,bootstrap" />
 </p>
 
-### Angular
+**Angular • TypeScript • JavaScript • HTML5 • CSS3 • Angular Material • RxJS • Responsive Design**
 
-- Angular
-- Angular Material
-- Angular Router
-- RxJS
-- Reactive Forms
-- Dependency Injection
-- HTTP Client
-- Route Guards
-- Lazy Loading
-- JWT Authentication
-- REST API Integration
-- Component-Based Architecture
-- Reusable Components
-- State Management
+### Backend & APIs
 
-### UI / UX
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+</p>
 
-- UI Design
-- UX Design
-- Responsive UI
-- Responsive Layouts
-- Design Systems
-- Accessibility (WCAG)
-- Microinteractions
-- Web Performance
-- GSAP Animations
+**Java • Spring Boot • REST APIs • SQL**
 
-### Backend (Learning)
+> Currently strengthening my backend and full-stack development skills.
 
-- Java
-- Spring Boot
-- SQL
-- REST APIs
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,netlify" />
+</p>
+
+**Git • GitHub • VS Code • Postman • Figma • Netlify**
 
 ---
 
-# 🌟 Featured Projects
+# 🌟 Featured Project
 
 ## 🏨 Aurelia Reserve
 
-A luxury resort landing page built with **Angular 14**, showcasing responsive layouts, reusable components, modern UI, hero slideshow, interactive gallery, and smooth user experience.
+**Luxury Resort Landing Page**
+
+A responsive luxury resort landing page built with **Angular 14 and TypeScript**, focused on polished visual design, reusable components, responsive layouts, and an engaging browsing experience.
 
 ### Highlights
 
-- Responsive Design
-- Component-Based Architecture
-- Hero Slideshow
-- Interactive Gallery
-- Mobile Navigation
-- Modern UI
+- Responsive desktop, tablet & mobile layouts
+- Reusable Angular components
+- Responsive navigation
+- Hero slideshow
+- Interactive image gallery
+- Mobile navigation
+- Modern UI design
+- Netlify deployment
 
-🔗 Live Demo
+### Tech Used
 
-https://aurelia-reserve.netlify.app
+`Angular 14` `TypeScript` `JavaScript` `HTML5` `CSS3` `Git` `Netlify`
 
-💻 Repository
-
-https://github.com/wh0-khushh/aurelia-reserve
-
----
-
-## 💼 Personal Portfolio
-
-A modern software engineering portfolio built using Angular.
-
-### Features
-
-- Responsive Design
-- Dark / Light Theme
-- Experience Timeline
-- Featured Projects
-- Resume Download
-- GitHub Integration
+<p>
+  🔗 <a href="https://aurelia-reserve.netlify.app/">Live Demo</a>
+  &nbsp; • &nbsp;
+  💻 <a href="https://github.com/wh0-khushh/aurelia-reserve">Source Code</a>
+</p>
 
 ---
 
-## 🚀 GlassFlow (In Progress)
+# 💼 Professional Experience
 
-An enterprise-inspired Angular SaaS application showcasing modern frontend architecture.
+### Frontend Developer Intern — WorkSeer
 
-Planned Features
+**July 2025 — Present**
 
-- Authentication
-- Route Guards
-- JWT
-- Lazy Loading
-- HTTP Interceptors
-- RxJS
-- REST APIs
-- Dashboard
-- Analytics
-- Glassmorphism UI
-- Modular Architecture
+Contributing to enterprise web applications for a cloud-based Global Trade Management platform.
 
-> 🚧 Currently under development.
+### Areas of Contribution
+
+- Angular frontend development
+- Responsive user interfaces
+- Reusable Angular components
+- Angular Material
+- Reactive Forms
+- Client-side validation
+- REST API integration
+- Git & GitHub
+- Enterprise application workflows
+
+Alongside frontend development, I'm gaining exposure to **Java, Spring Boot, REST APIs, PostgreSQL, cloud technologies, microservices, and modern software development practices**.
 
 ---
 
 # 🌱 Currently Learning
 
-- Advanced Angular Patterns
-- Software Architecture
-- Product Engineering
-- Spring Boot
-- System Design
-- Better User Experiences
-
----
-
-# 🎯 Career Goal
-
-To grow as a **Frontend Product Engineer**, building scalable, accessible, and beautifully crafted web applications that solve real-world problems through thoughtful engineering and design.
-
----
-
-# 🤝 Connect With Me
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/khushi-kumari-b95652409
-
-🌐 Portfolio
-
-https://khushi-kumariportfolio.netlify.app/
-
-💻 GitHub
-
-https://github.com/wh0-khushh
-
-📧 Email
-
-khushhiii143offc@gmail.com
-
----
-
-<p align="center">
-
-⭐ Thanks for visiting my profile!
-
-Always learning. Always building.
-
-</p>
+```text
+Angular
+   ↓
+Java
+   ↓
+Spring Boot
+   ↓
+REST APIs
+   ↓
+SQL / PostgreSQL
+   ↓
+Full-Stack Development
