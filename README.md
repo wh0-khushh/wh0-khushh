@@ -14,44 +14,45 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/khushi-kumari-b95652409">LinkedIn</a>
-  •
+  &nbsp;•&nbsp;
   <a href="https://khushi-kumariportfolio.netlify.app/">Portfolio</a>
-  •
-  <a href="https://github.com/wh0-khushh">GitHub</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:khushhiii143offc@gmail.com">Email</a>
 </p>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
 I'm a **Frontend Developer Intern** and **B.Tech Computer Science Engineering student** focused on building modern, responsive, and user-friendly web applications.
 
 My primary development focus is **Angular, TypeScript, JavaScript, HTML5, CSS3, Angular Material, RxJS, and responsive UI development**.
 
-At **WorkSeer**, I contribute to enterprise web applications, working with Angular-based interfaces, reusable components, Reactive Forms, client-side validation, REST API integration, and responsive UI development.
+At **WorkSeer**, I contribute to enterprise web applications by developing Angular-based interfaces, reusable components, Reactive Forms, client-side validation, REST API integrations, and responsive user interfaces.
 
-Alongside frontend engineering, I'm expanding my knowledge of **Java, Spring Boot, REST APIs, software architecture, and backend development** as I work toward becoming a stronger full-stack software engineer.
+Alongside frontend development, I'm expanding my knowledge of **Java, Spring Boot, REST APIs, SQL, software architecture, and backend development** as I work toward becoming a stronger full-stack software engineer.
 
-I also enjoy exploring **UI systems, design, responsive layouts, and frontend architecture** through personal projects.
+I also enjoy exploring **UI systems, responsive design, visual details, and frontend architecture** through personal projects.
 
 ---
 
-# 🚀 What I'm Focused On
+## 🚀 Current Focus
 
 - Angular & TypeScript
-- Reusable Component Architecture
+- Reusable Angular Components
 - Responsive Frontend Development
-- Angular Material & RxJS
+- Angular Material
+- RxJS
 - Reactive Forms & Validation
 - REST API Integration
-- Frontend Engineering Practices
-- UI / UX Design
+- Frontend Engineering
+- UI / UX
 - Java & Spring Boot
 - Software Architecture
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ### Frontend
 
@@ -81,9 +82,33 @@ I also enjoy exploring **UI systems, design, responsive layouts, and frontend ar
 
 ---
 
-# 🌟 Featured Project
+## 💼 Professional Experience
 
-## 🏨 Aurelia Reserve
+### Frontend Developer Intern — WorkSeer
+
+**July 2025 — Present**
+
+Contributing to enterprise web applications for a **cloud-based Global Trade Management platform**.
+
+### Areas of Contribution
+
+- Angular frontend development
+- Responsive user interfaces
+- Reusable Angular components
+- Angular Material
+- Reactive Forms
+- Client-side validation
+- REST API integration
+- Git & GitHub
+- Enterprise application workflows
+
+Alongside frontend development, I'm gaining exposure to **Java, Spring Boot, REST APIs, PostgreSQL, cloud technologies, microservices, and modern software development practices**.
+
+---
+
+## 🌟 Featured Project
+
+### 🏨 Aurelia Reserve
 
 **Luxury Resort Landing Page**
 
@@ -106,47 +131,105 @@ A responsive luxury resort landing page built with **Angular 14 and TypeScript**
 
 <p>
   🔗 <a href="https://aurelia-reserve.netlify.app/">Live Demo</a>
-  &nbsp; • &nbsp;
+  &nbsp;•&nbsp;
   💻 <a href="https://github.com/wh0-khushh/aurelia-reserve">Source Code</a>
 </p>
 
 ---
 
-# 💼 Professional Experience
+## 🌐 Personal Portfolio
 
-### Frontend Developer Intern — WorkSeer
+My personal developer portfolio showcasing my **experience, projects, technical skills, certifications, and frontend work**.
 
-**July 2025 — Present**
+### Built With
 
-Contributing to enterprise web applications for a cloud-based Global Trade Management platform.
+`Angular 14` `TypeScript` `HTML5` `CSS3` `Angular Material`
 
-### Areas of Contribution
-
-- Angular frontend development
-- Responsive user interfaces
-- Reusable Angular components
-- Angular Material
-- Reactive Forms
-- Client-side validation
-- REST API integration
-- Git & GitHub
-- Enterprise application workflows
-
-Alongside frontend development, I'm gaining exposure to **Java, Spring Boot, REST APIs, PostgreSQL, cloud technologies, microservices, and modern software development practices**.
+<p align="center">
+  🌐 <a href="https://khushi-kumariportfolio.netlify.app/">View Portfolio</a>
+</p>
 
 ---
 
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
-```text
-Angular
-   ↓
-Java
-   ↓
-Spring Boot
-   ↓
-REST APIs
-   ↓
-SQL / PostgreSQL
-   ↓
-Full-Stack Development
+I'm continuously strengthening my software engineering foundation through:
+
+- Advanced Angular Patterns
+- Java
+- Spring Boot
+- REST API Development
+- SQL / PostgreSQL
+- Software Architecture
+- Microservices
+- Cloud & AWS Fundamentals
+- System Design
+- Full-Stack Development
+
+---
+
+## 🎓 Education
+
+### B.Tech — Computer Science Engineering
+
+**Maryland Institute of Technology & Management (MITM), Jamshedpur**
+
+Affiliated with **Jharkhand University of Technology (JUT)**
+
+**2023 — 2027**
+
+---
+
+## 🏆 Certifications & Learning
+
+- **Oracle Cloud Infrastructure Certified AI Foundations Associate** — Oracle
+- **AWS For Beginners** — Great Learning
+- **UI / UX for Beginners** — Great Learning
+- **Front-End Software Engineering Job Simulation** — Skyscanner / Forage
+- **Software Development Job Simulation** — DATACOM / Forage
+- **Data Analytics Internship Certificate** — Aminrup Technologies
+- Additional **Microsoft Learn** modules and **Forage Job Simulations**
+
+---
+
+## 🎯 Career Direction
+
+I'm working toward becoming a **Frontend / Full-Stack Software Engineer**, combining strong frontend engineering with backend fundamentals and thoughtful product design.
+
+I want to build software that is:
+
+**Responsive • Maintainable • User-Friendly • Practical • Well-Engineered**
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wh0-khushh&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wh0-khushh&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/khushi-kumari-b95652409">LinkedIn</a>
+&nbsp;•&nbsp;
+<a href="https://khushi-kumariportfolio.netlify.app/">Portfolio</a>
+&nbsp;•&nbsp;
+<a href="https://github.com/wh0-khushh">GitHub</a>
+&nbsp;•&nbsp;
+<a href="mailto:khushhiii143offc@gmail.com">Email</a>
+
+</p>
+
+---
+
+<p align="center">
+  <strong>Always learning. Always building. 🚀</strong>
+</p>
