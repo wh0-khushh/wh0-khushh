@@ -200,19 +200,7 @@ I want to build software that is:
 
 **Responsive • Maintainable • User-Friendly • Practical • Well-Engineered**
 
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wh0-khushh&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wh0-khushh&theme=tokyonight&hide_border=true" />
-</p>
-
----
+ 
 
 ## 🤝 Let's Connect
 
